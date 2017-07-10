@@ -1,11 +1,10 @@
 p {
-    font-style:oblique;
+    border: 2px dashed teal;
+    padding: 2em;
+    margin: 1em;
+    background-color:azure
 }
 
 body {
     background-color:aquamarine;
-}
-
-p.important {
-    font-weight: 900;
 }
